@@ -10,7 +10,6 @@ import time
 LOG_MODE=2 #1:ERROR, 2:TRACE
 CONSOLE_LOG=True
 SLEEP_TIMER=0.25
-CONNECTION_TRY=1000
 
 #parameters
 TIMEZONE="Europe/Zurich"
